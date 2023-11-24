@@ -1,0 +1,9 @@
+C:\Users\super\OneDrive\Masaüstü\decompile\bin\Debug\WindowsFormsApp1.exe
+C:\Users\super\OneDrive\Masaüstü\decompile\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\super\OneDrive\Masaüstü\decompile\obj\x86\Debug\DWTFD.csproj.AssemblyReference.cache
+C:\Users\super\OneDrive\Masaüstü\decompile\obj\x86\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\super\OneDrive\Masaüstü\decompile\obj\x86\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\super\OneDrive\Masaüstü\decompile\obj\x86\Debug\DWTFD.csproj.GenerateResource.cache
+C:\Users\super\OneDrive\Masaüstü\decompile\obj\x86\Debug\DWTFD.csproj.CoreCompileInputs.cache
+C:\Users\super\OneDrive\Masaüstü\decompile\obj\x86\Debug\WindowsFormsApp1.exe
+C:\Users\super\OneDrive\Masaüstü\decompile\obj\x86\Debug\WindowsFormsApp1.pdb
